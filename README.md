@@ -33,4 +33,6 @@ pip install PyQt5 PyOpenGL PyOpenGL-accelerate
 
 ## Running
 
+```
 python lorenz.py
+```
