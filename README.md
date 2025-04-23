@@ -24,7 +24,7 @@ Visualizes the Lorenz attractor in 3D with dynamic colors using PyQt5 and OpenGL
 
 Create and activate a conda environment:
 ```
-conda create -n lorenz_env python=3.10 pyqt numpy
+conda create -n lorenz_env python=3.8 numpy
 
 conda activate lorenz_env
 
