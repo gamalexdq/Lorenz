@@ -5,11 +5,10 @@ Visualizes the Lorenz attractor in 3D with dynamic colors using PyQt5 and OpenGL
 
 ## 🖥️ Features
 
-- Interactive 3D rendering of the Lorenz attractor
+- 3D rendering of the Lorenz attractor
 - Smooth rotation animation
 - Colorful gradient trail using HSV color space
 - Frameless, transparent window that stays on top
-- Draggable window with mouse
 
 ---
 
